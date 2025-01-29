@@ -1,0 +1,7 @@
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Task5\bin\Debug\Task5.exe.config
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Task5\bin\Debug\Task5.exe
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Task5\bin\Debug\Task5.pdb
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Task5\obj\Debug\Task5.exe
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Task5\obj\Debug\Task5.pdb

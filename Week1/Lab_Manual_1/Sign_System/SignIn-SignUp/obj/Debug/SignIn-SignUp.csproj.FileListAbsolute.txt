@@ -1,0 +1,7 @@
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Sign_System\SignIn-SignUp\obj\Debug\SignIn-SignUp.csproj.AssemblyReference.cache
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Sign_System\SignIn-SignUp\obj\Debug\SignIn-SignUp.csproj.CoreCompileInputs.cache
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Sign_System\SignIn-SignUp\bin\Debug\SignIn-SignUp.exe.config
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Sign_System\SignIn-SignUp\bin\Debug\SignIn-SignUp.exe
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Sign_System\SignIn-SignUp\bin\Debug\SignIn-SignUp.pdb
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Sign_System\SignIn-SignUp\obj\Debug\SignIn-SignUp.exe
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Sign_System\SignIn-SignUp\obj\Debug\SignIn-SignUp.pdb

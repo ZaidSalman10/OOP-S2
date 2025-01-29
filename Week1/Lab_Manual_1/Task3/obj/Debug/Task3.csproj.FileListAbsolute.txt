@@ -1,0 +1,7 @@
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Task3\bin\Debug\Task3.exe.config
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Task3\bin\Debug\Task3.exe
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Task3\bin\Debug\Task3.pdb
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Task3\obj\Debug\Task3.exe
+D:\UET-CS24\S2\OOP\Week1\Lab_Manual_1\Task3\obj\Debug\Task3.pdb
