@@ -1,0 +1,15 @@
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task3\bin\Debug\net8.0\Task3.exe
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task3\bin\Debug\net8.0\Task3.deps.json
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task3\bin\Debug\net8.0\Task3.dll
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task3\bin\Debug\net8.0\Task3.pdb
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task3\obj\Debug\net8.0\Task3.dll
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task3\obj\Debug\net8.0\refint\Task3.dll
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task3\obj\Debug\net8.0\Task3.pdb
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task3\obj\Debug\net8.0\ref\Task3.dll

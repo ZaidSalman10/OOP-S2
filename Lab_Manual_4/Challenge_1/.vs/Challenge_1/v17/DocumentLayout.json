@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UET-CS24\\S2\\OOP\\Lab_Manual_4\\Challenge_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D51EA36-6BBE-4F47-9476-2F4F2CCAA8DB}|Challenge_1.csproj|d:\\uet-cs24\\s2\\oop\\lab_manual_4\\challenge_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D51EA36-6BBE-4F47-9476-2F4F2CCAA8DB}|Challenge_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D51EA36-6BBE-4F47-9476-2F4F2CCAA8DB}|Challenge_1.csproj|d:\\uet-cs24\\s2\\oop\\lab_manual_4\\challenge_1\\bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D51EA36-6BBE-4F47-9476-2F4F2CCAA8DB}|Challenge_1.csproj|solutionrelative:bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D51EA36-6BBE-4F47-9476-2F4F2CCAA8DB}|Challenge_1.csproj|d:\\uet-cs24\\s2\\oop\\lab_manual_4\\challenge_1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D51EA36-6BBE-4F47-9476-2F4F2CCAA8DB}|Challenge_1.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D51EA36-6BBE-4F47-9476-2F4F2CCAA8DB}|Challenge_1.csproj|d:\\uet-cs24\\s2\\oop\\lab_manual_4\\challenge_1\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D51EA36-6BBE-4F47-9476-2F4F2CCAA8DB}|Challenge_1.csproj|solutionrelative:member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\UET-CS24\\S2\\OOP\\Lab_Manual_4\\Challenge_1\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "D:\\UET-CS24\\S2\\OOP\\Lab_Manual_4\\Challenge_1\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:14:39.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\UET-CS24\\S2\\OOP\\Lab_Manual_4\\Challenge_1\\Member.cs",
+              "RelativeDocumentMoniker": "Member.cs",
+              "ToolTip": "D:\\UET-CS24\\S2\\OOP\\Lab_Manual_4\\Challenge_1\\Member.cs",
+              "RelativeToolTip": "Member.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:13:46.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bookstore.cs",
+              "DocumentMoniker": "D:\\UET-CS24\\S2\\OOP\\Lab_Manual_4\\Challenge_1\\Bookstore.cs",
+              "RelativeDocumentMoniker": "Bookstore.cs",
+              "ToolTip": "D:\\UET-CS24\\S2\\OOP\\Lab_Manual_4\\Challenge_1\\Bookstore.cs",
+              "RelativeToolTip": "Bookstore.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:50:28.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UET-CS24\\S2\\OOP\\Lab_Manual_4\\Challenge_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\UET-CS24\\S2\\OOP\\Lab_Manual_4\\Challenge_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:43:06.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

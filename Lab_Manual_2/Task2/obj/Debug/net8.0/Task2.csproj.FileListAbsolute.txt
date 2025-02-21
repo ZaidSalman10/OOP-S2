@@ -1,0 +1,15 @@
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task2\bin\Debug\net8.0\Task2.exe
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task2\bin\Debug\net8.0\Task2.dll
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task2\bin\Debug\net8.0\Task2.pdb
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task2\obj\Debug\net8.0\Task2.dll
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task2\obj\Debug\net8.0\Task2.pdb
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\UET-CS24\S2\OOP\Lab_Manual_2\Task2\obj\Debug\net8.0\ref\Task2.dll
